@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9016B26D-5D08-4A57-A7B9-E20D007FB1DA}|Default">
+  <MonoDevelop.Ide.ItemProperties.TravelRecord.Android AndroidDesignerPreferredTheme="MainTheme" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecord/MapPage.xaml">
+    <Files>
+      <File FileName="TravelRecord/MapPage.xaml" Line="14" Column="1" />
+      <File FileName="TravelRecord/MapPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TravelRecord" expanded="True">
+            <Node name="TravelRecord" expanded="True">
+              <Node name="HistoryPage.xaml" expanded="True" />
+              <Node name="MapPage.xaml" expanded="True" selected="True" />
+              <Node name="NewTravelPage.xaml" expanded="True" />
+              <Node name="PostDetailPage.xaml" expanded="True" />
+            </Node>
+            <Node name="TravelRecord.Android" expanded="True" />
+            <Node name="TravelRecord.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TravelRecord.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9D55D648-F879-4D8D-8438-D8034560F97C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
